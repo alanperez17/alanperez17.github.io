@@ -1,6 +1,1 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/.vs/Github.io Repo/FileContentIndex/7c52c0fa-1b6d-4fe2-a672-09854c00132b.vsidx
-/.vs/Github.io Repo/FileContentIndex/aa2b165c-7052-46f4-80ab-b4e3d7061fb0.vsidx
+node_modules/
